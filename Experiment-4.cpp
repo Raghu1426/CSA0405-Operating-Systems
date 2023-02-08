@@ -49,3 +49,5 @@
     printf("Average Waiting Time=%f\n",avg_wt);
     printf("Average Turnaround Time=%f\n",avg_tat);
 }
+![Screenshot (372)](https://user-images.githubusercontent.com/113841807/217590689-c7caa415-868d-4fb1-82a9-ff3806200a68.png)
+![Screenshot (373)](https://user-images.githubusercontent.com/113841807/217590769-96c37e7d-0df1-44f9-a925-30891c274b88.png)
