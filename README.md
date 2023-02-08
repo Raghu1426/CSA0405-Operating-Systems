@@ -1,5 +1,5 @@
 # CSA0405-Operating-Systems
-# Experiment-3:Design a CPU scheduling program with C using First Come First Served technique with the following considerations. 
+## Experiment-3:Design a CPU scheduling program with C using First Come First Served technique with the following considerations. 
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-3.cpp)
 ![ex3](https://user-images.githubusercontent.com/113841807/217594813-e6604185-6b25-4e89-bde9-02b2fa70113c.png)
 # Experiment-4:Construct a scheduling program with c that selects the waiting process with the smallest time to execute next.
