@@ -22,7 +22,7 @@
 ## Experiment-11: Illustrate the concept of multithreading using a C program.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-11.cpp)
 ## Experiment-12: Design a C program to simulate the concept of Dining-Philosophers problem.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-12.cpp)
 ## Experiment-13: Construct a C program for implementation the various memory allocation strategies.
 ()
 ## Experiment-14: Construct a C program to organize the file using single level directory.
