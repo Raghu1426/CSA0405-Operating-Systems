@@ -18,7 +18,7 @@
 ## Experiment-9: Illustrate the concept of inter-process communication using shared memory with a C program.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-9.cpp)
 ## Experiment-10: Illustrate the concept of inter-process communication using message queue with a C program.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-10.cpp)
 ## Experiment-11: Illustrate the concept of multithreading using a C program.
 ()
 ## Experiment-12: Design a C program to simulate the concept of Dining-Philosophers problem.
