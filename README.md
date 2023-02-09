@@ -24,7 +24,7 @@
 ## Experiment-12: Design a C program to simulate the concept of Dining-Philosophers problem.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-12.cpp)
 ## Experiment-13: Construct a C program for implementation the various memory allocation strategies.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-13.cpp)
 ## Experiment-14: Construct a C program to organize the file using single level directory.
 ()
 ## Experiment-15: Design a C program to organize the file using two level directory structure.
