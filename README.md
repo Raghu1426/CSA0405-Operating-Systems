@@ -12,6 +12,7 @@
 ## Experiment-6: Construct a C program to implement pre-emptive priority scheduling algorithm.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-6.cpp)
 ## Experiment-7: Construct a C program to implement non-preemptive SJF algorithm.
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-7.cpp)
 ## Experiment-8: Construct a C program to simulate Round Robin scheduling algorithm with C.
 ## Experiment-9: Illustrate the concept of inter-process communication using shared memory with a C program.  
 ## Experiment-10: Illustrate the concept of inter-process communication using message queue with a C program.  
