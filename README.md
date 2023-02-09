@@ -8,6 +8,7 @@
 ## Experiment-4:Construct a scheduling program with c that selects the waiting process with the smallest time to execute next.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-4.cpp)
 ## Experiment-5: Construct a scheduling program with C that selects the waiting process with the highest priority to execute next.
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-5.cpp)
 ## Experiment-6: Construct a C program to implement pre-emptive priority scheduling algorithm.
 ## Experiment-7: Construct a C program to implement non-preemptive SJF algorithm.
 ## Experiment-8: Construct a C program to simulate Round Robin scheduling algorithm with C.
