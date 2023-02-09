@@ -15,11 +15,19 @@
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-7.cpp)
 ## Experiment-8: Construct a C program to simulate Round Robin scheduling algorithm with C.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-8.cpp)
-## Experiment-9: Illustrate the concept of inter-process communication using shared memory with a C program.  
-## Experiment-10: Illustrate the concept of inter-process communication using message queue with a C program.  
+## Experiment-9: Illustrate the concept of inter-process communication using shared memory with a C program.
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-9.cpp)
+## Experiment-10: Illustrate the concept of inter-process communication using message queue with a C program.
+()
 ## Experiment-11: Illustrate the concept of multithreading using a C program.
-## Experiment-12: Design a C program to simulate the concept of Dining-Philosophers problem
+()
+## Experiment-12: Design a C program to simulate the concept of Dining-Philosophers problem.
+()
 ## Experiment-13: Construct a C program for implementation the various memory allocation strategies.
+()
 ## Experiment-14: Construct a C program to organize the file using single level directory.
+()
 ## Experiment-15: Design a C program to organize the file using two level directory structure.
+()
 ## Experiment-16: Develop a C program for implementing random access file for processing the employee details.
+()
