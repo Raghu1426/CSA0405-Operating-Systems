@@ -31,3 +31,11 @@
 ()
 ## Experiment-16: Develop a C program for implementing random access file for processing the employee details.
 ()
+## Experiment-17: Illustrate the deadlock avoidance concept by simulating Banker’s algorithm with C. 
+## Experiment-18: Construct a C program to simulate producer-consumer problem using semaphores.  
+## Experiment-19: Design a C program to implement process synchronization using mutex locks.
+## Experiment-20: Construct a C program to simulate Reader-Writer problem using Semaphores.
+## Experiment-21: Develop a C program to implement worst fit algorithm of memory management.
+## Experiment-22: Construct a C program to implement best fit algorithm of memory management.
+## Experiment-23: Construct a C program to implement first fit algorithm of memory management.
+## Experiment-24: Design a C program to demonstrate UNIX system calls for file management.
