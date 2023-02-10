@@ -38,4 +38,4 @@
 ## Experiment-21: Develop a C program to implement worst fit algorithm of memory management.
 ## Experiment-22: Construct a C program to implement best fit algorithm of memory management.
 ## Experiment-23: Construct a C program to implement first fit algorithm of memory management.
-## Experiment-24: Design a C program to demonstrate UNIX system calls for file management.
+### Experiment-24: Design a C program to demonstrate UNIX system calls for file management.
