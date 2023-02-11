@@ -28,15 +28,15 @@
 ### Experiment-14: Construct a C program to organize the file using single level directory.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-14.cpp)
 ### Experiment-15: Design a C program to organize the file using two level directory structure.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-15.cpp)
 ### Experiment-16: Develop a C program for implementing random access file for processing the employee details.
 ()
 ### Experiment-17: Illustrate the deadlock avoidance concept by simulating Banker’s algorithm with C.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-17.cpp)
 ### Experiment-18: Construct a C program to simulate producer-consumer problem using semaphores.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-18.cpp)
 ### Experiment-19: Design a C program to implement process synchronization using mutex locks.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-19.cpp)
 ### Experiment-20: Construct a C program to simulate Reader-Writer problem using Semaphores.
 ()
 ### Experiment-21: Develop a C program to implement worst fit algorithm of memory management.
