@@ -44,6 +44,6 @@
 ### Experiment-22: Construct a C program to implement best fit algorithm of memory management.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-22.cpp)
 ### Experiment-23: Construct a C program to implement first fit algorithm of memory management.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-23.cpp)
 ### Experiment-24: Design a C program to demonstrate UNIX system calls for file management.
 ()
