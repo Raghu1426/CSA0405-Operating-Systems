@@ -40,7 +40,7 @@
 ### Experiment-20: Construct a C program to simulate Reader-Writer problem using Semaphores.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-20.cpp)
 ### Experiment-21: Develop a C program to implement worst fit algorithm of memory management.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-21.cpp)
 ### Experiment-22: Construct a C program to implement best fit algorithm of memory management.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-22.cpp)
 ### Experiment-23: Construct a C program to implement first fit algorithm of memory management.
