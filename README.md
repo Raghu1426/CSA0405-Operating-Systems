@@ -66,9 +66,9 @@
 ### Experiment-33. Construct a C program to simulate the optimal paging technique of memory management.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-33.cpp)
 ### Experiment-34. Consider a file system where the records of the file are stored one after another both physically and logically. A record of the file can only be accessed by reading all the previous records.  Design a C program to simulate the file allocation strategy.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-34.cpp)
 ### Experiment-35: Consider a file system that brings all the file pointers together into an index block. The ith entry in the index block points to the ith block of the file. Design a C program to simulate the file allocation strategy.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-35.cpp)
 ### Experiment-36: With linked allocation, each file is a linked list of disk blocks; the disk blocks may be scattered anywhere on the disk. The directory contains a pointer to the first and last blocks of the file.  Each block contains a pointer to the next block. Design a C program to simulate the file allocation strategy.
 ()
 ### Experiment-37: Construct a C program to simulate the First Come First Served disk scheduling algorithm.
