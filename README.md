@@ -56,9 +56,9 @@
 ### Experiment-28: Write a C program for simulation of GREP UNIX command.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-28.cpp)
 ### Experiment-29: Write a C program to simulate the solution of Classical Process Synchronization Problem.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-29.cpp)
 ### Experiment-30: Write C programs to demonstrate the following thread related concepts.(i) create (ii) join (iii) equal (iv) exit.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-30.cpp)
 ### Experiment-31: Construct a C program to simulate the First in First Out paging technique of memory management.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-31.cpp)
 ### Experiment-32: Construct a C program to simulate the Least Recently Used paging technique of memory management.
