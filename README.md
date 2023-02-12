@@ -46,9 +46,9 @@
 ### Experiment-23: Construct a C program to implement first fit algorithm of memory management.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-23.cpp)
 ### Experiment-24: Design a C program to demonstrate UNIX system calls for file management.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-24.cpp)
 ### Experiment-25: Construct a C program to implement the I/O system calls of UNIX (fcntl, seek, stat, opendir, readdir)
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-25.cpp)
 ### Experiment-26: Construct a C program to implement the file management operations.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-26.cpp)
 ### Experiment-27: Develop a C program for simulating the function of ls UNIX Command.
