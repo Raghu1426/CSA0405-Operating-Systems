@@ -47,3 +47,35 @@
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-23.cpp)
 ### Experiment-24: Design a C program to demonstrate UNIX system calls for file management.
 ()
+### Experiment-25: Construct a C program to implement the I/O system calls of UNIX (fcntl, seek, stat, opendir, readdir)
+()
+### Experiment-26: Construct a C program to implement the file management operations.
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-26.cpp)
+### Experiment-27: Develop a C program for simulating the function of ls UNIX Command.
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-27.cpp)
+### Experiment-28: Write a C program for simulation of GREP UNIX command.
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-28.cpp)
+### Experiment-29: Write a C program to simulate the solution of Classical Process Synchronization Problem.
+()
+### Experiment-30: Write C programs to demonstrate the following thread related concepts.(i) create (ii) join (iii) equal (iv) exit.
+()
+### Experiment-31: Construct a C program to simulate the First in First Out paging technique of memory management.
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-31.cpp)
+### Experiment-32: Construct a C program to simulate the Least Recently Used paging technique of memory management.
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-32.cpp)
+### Experiment-33. Construct a C program to simulate the optimal paging technique of memory management.
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-33.cpp)
+### Experiment-34. Consider a file system where the records of the file are stored one after another both physically and logically. A record of the file can only be accessed by reading all the previous records.  Design a C program to simulate the file allocation strategy.
+()
+### Experiment-35: Consider a file system that brings all the file pointers together into an index block. The ith entry in the index block points to the ith block of the file. Design a C program to simulate the file allocation strategy.
+()
+### Experiment-36: With linked allocation, each file is a linked list of disk blocks; the disk blocks may be scattered anywhere on the disk. The directory contains a pointer to the first and last blocks of the file.  Each block contains a pointer to the next block. Design a C program to simulate the file allocation strategy.
+()
+### Experiment-37: Construct a C program to simulate the First Come First Served disk scheduling algorithm.
+()
+### Experiment-38: Design a C program to simulate SCAN disk scheduling algorithm.
+()
+### Experiment-39: Develop a C program to simulate C-SCAN disk scheduling algorithm.
+()
+### Experiment-40: Illustrate the various File Access Permission and different types users in Linux.
+()
