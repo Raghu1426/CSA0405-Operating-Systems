@@ -70,12 +70,12 @@
 ### Experiment-35: Consider a file system that brings all the file pointers together into an index block. The ith entry in the index block points to the ith block of the file. Design a C program to simulate the file allocation strategy.
 (https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-35.cpp)
 ### Experiment-36: With linked allocation, each file is a linked list of disk blocks; the disk blocks may be scattered anywhere on the disk. The directory contains a pointer to the first and last blocks of the file.  Each block contains a pointer to the next block. Design a C program to simulate the file allocation strategy.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-36.cpp)
 ### Experiment-37: Construct a C program to simulate the First Come First Served disk scheduling algorithm.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-37.cpp)
 ### Experiment-38: Design a C program to simulate SCAN disk scheduling algorithm.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-38.cpp)
 ### Experiment-39: Develop a C program to simulate C-SCAN disk scheduling algorithm.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-39.cpp)
 ### Experiment-40: Illustrate the various File Access Permission and different types users in Linux.
-()
+(https://github.com/Raghu1426/CSA0405-Operating-Systems/blob/main/Experiment-40.cpp)
